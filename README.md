@@ -15,14 +15,14 @@
 
 ---
 
-### 🚀 Languages
+### Languages
 
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-### 🛠️ Tools
+### Tools
 
 <p>
   <a href="https://github.com/EriksDevelopment">
@@ -42,7 +42,7 @@ I love coding and improving every day!
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EriksDevelopment&show_icons=true&theme=radical" alt="GitHub stats" />
