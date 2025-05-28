@@ -4,6 +4,8 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+![Funny programming gif](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+
 ## About Me
 
 I'm learning C# and building cool console applications.  
