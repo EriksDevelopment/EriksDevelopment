@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @EriksDevelopment  
+- 🧠 I’m currently learning C# and focusing on building console applications to improve my programming skills  
+- 👀 I’m interested in software, .net and cloud development.  
+- 💻 Most of my projects are simple, fun, and a way for me to practice coding and understand real-world logic  
+- 🌱 I try to learn something new every day! From working with APIs to improving my code structure  
+- 💬 Always open to feedback and tips from more experienced developers!  
+- 📫 You can reach me here on GitHub or dev.erikjonsson@gmail.com 
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: Im a musicproducer aswell.
