@@ -2,22 +2,28 @@
   <tr>
     <td valign="top" style="padding-right: 20px;">
 
-### Hi, I'm Erik 👋
+<h1>Hi, I'm Erik 👋</h1>
 
-#### Languages I'm learning:
+<h3>Languages I'm learning:</h3>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-#### About Me
+<h3>About Me</h3>
 
-I'm currently learning C# and building cool console applications.  
-I love coding and improving every day!
+<p>I'm currently learning C# and building cool console applications.<br/>
+I love coding and improving every day!</p>
 
-#### Connect with me
+<h3>Connect with me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-jonsson-b16680368/)
+<p>
+  <a href="https://www.linkedin.com/in/erik-jonsson-b16680368/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
     </td>
     <td valign="top" style="text-align:right;">
