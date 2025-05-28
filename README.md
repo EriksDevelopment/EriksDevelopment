@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
+    <td valign="top" style="padding-right: 20px;">
 
 <h1>Hi, I'm Erik 👋</h1>
 
@@ -13,7 +13,7 @@
 
 <h3>About Me</h3>
 <p>
-I'm currently learning C# and building cool console applications.<br />
+I'm currently learning C# and building cool console applications.<br/>
 I love coding and improving every day!
 </p>
 
@@ -29,7 +29,7 @@ I love coding and improving every day!
 </p>
 
     </td>
-    <td style="vertical-align: top;">
+    <td valign="top">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VhYW15aGN1d2E0cXpqdDV2MWJ4dnBqZmoxeXFwcWVxeTRhaWw1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xz2BLBOt13X9AgjEA/giphy.gif" alt="Spider-Man GIF" width="200" />
     </td>
   </tr>
