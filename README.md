@@ -15,7 +15,7 @@
 
 ---
 
-### Languages im learning
+### Languages / learning
 
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -23,7 +23,7 @@
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
 
-### Tools im learning
+### Tools / learning
 
 <p>
   <a href="https://github.com/EriksDevelopment">
