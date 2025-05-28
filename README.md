@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Erik</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/4HU2L6D56z0WQ/giphy.gif" width="250" alt="Ringing Phone GIF"/>
+  <img src="https://i.imgur.com/rQ6Uv1T.gif" width="250" alt="Ringing Phone GIF" />
 </p>
 
 <p align="center">
