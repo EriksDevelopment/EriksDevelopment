@@ -38,8 +38,7 @@
 
 ### About Me
 
-I'm currently learning C# and building cool console applications.  
-I love coding and improving every day!
+I’m a passionate software developer currently diving deep into C# and exploring the power of .NET. I enjoy creating practical and efficient console applications that solve real problems and challenge my skills. Coding is not just a hobby for me, it’s a constant journey of learning and self-improvement. Every day, I strive to write cleaner, more maintainable code and expand my knowledge of new technologies and best practices.
 
 ---
 
