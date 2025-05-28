@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Erik 👋</h1>
+<h1 align="center">Hi, I'm Erik</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQmDODFcrWZtq/giphy.gif" alt="Spider-Man GIF" width="250"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Spider-Man GIF" width="250"/>
 </p>
 
 <p align="center">
