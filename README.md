@@ -1,4 +1,4 @@
-# Hi, I'm Erik 👋
+# Hi, I'm Erik Jonsson
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VhYW15aGN1d2E0cXpqdDV2MWJ4dnBqZmoxeXFwcWVxeTRhaWw1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xz2BLBOt13X9AgjEA/giphy.gif" alt="Spider-Man GIF" width="200"/>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
