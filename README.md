@@ -4,7 +4,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![Spider-Man Swinging](https://media.giphy.com/media/11Wl3IXE1QxC0w/giphy.gif)
+![Spider-Man Landing](https://media.giphy.com/media/26FPnsRww5KK7tavu/giphy.gif)
 
 ## About Me
 
