@@ -15,7 +15,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" /> Languages / learning
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVhemlkcTAwNnRkNXM4czgwbHFucXdlaXRqOXEyMmJ3YTNwd2E0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IgLEFhGAt3giA9XMHk/giphy.gif" width="30" /> Languages / learning
 
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
