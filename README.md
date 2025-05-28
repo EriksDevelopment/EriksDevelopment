@@ -1,6 +1,6 @@
-<table>
-  <tr>
-    <td>
+<div align="center">
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VhYW15aGN1d2E0cXpqdDV2MWJ4dnBqZmoxeXFwcWVxeTRhaWw1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xz2BLBOt13X9AgjEA/giphy.gif" alt="Spider-Man GIF" width="200"/>
+</div>
 
 # Hi, I'm Erik 👋
 
@@ -20,10 +20,3 @@ I love coding and improving every day!
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EriksDevelopment&show_icons=true&theme=radical)
-
-</td>
-    <td align="right">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3VhYW15aGN1d2E0cXpqdDV2MWJ4dnBqZmoxeXFwcWVxeTRhaWw1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xz2BLBOt13X9AgjEA/giphy.gif" alt="Spider-Man GIF" width="200">
-    </td>
-  </tr>
-</table>
