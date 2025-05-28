@@ -1,27 +1,39 @@
-<table>
-  <tr>
-    <td valign="top" style="padding-right: 20px;">
+<h1 align="center">Hi, I'm Erik 👋</h1>
 
-### Hi, I'm Erik 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQmDODFcrWZtq/giphy.gif" alt="Spider-Man GIF" width="250"/>
+</p>
 
-#### Languages I'm learning:
+<p align="center">
+  <a href="https://github.com/EriksDevelopment">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/erik-jonsson-b16680368/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
-#### About Me
+### 🚀 Languages & Tools I'm Learning
+
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### About Me
 
 I'm currently learning C# and building cool console applications.  
 I love coding and improving every day!
 
-#### Connect with me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-jonsson-b16680368/)
+### 📈 GitHub Stats
 
-    </td>
-    <td valign="top" style="text-align:right;">
-      <img src="https://media.giphy.com/media/3o7TKsQmDODFcrWZtq/giphy.gif" width="200" alt="Spider-Man GIF" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EriksDevelopment&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
