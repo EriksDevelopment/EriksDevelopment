@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Erik</h1>
+<h1 align="center">What’s up?</h1>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQzbDd6MGw5OWczbHkydHozaHV3OWlycnMwdHQzYnl4YmQ0ejA0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GwDQNNMfyorFJsKirP/giphy.gif" width="200" alt="Spider-Man GIF"/>
