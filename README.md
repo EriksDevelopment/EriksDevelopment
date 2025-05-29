@@ -1,7 +1,7 @@
 <h1 align="center">What’s up?</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQzbDd6MGw5OWczbHkydHozaHV3OWlycnMwdHQzYnl4YmQ0ejA0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GwDQNNMfyorFJsKirP/giphy.gif" width="200" alt="Spider-Man GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9hMXVvYzBmbDY4ZjN6NDg1bjd3b2prbmJ6ZDBwOHVvMXllaWRuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ytpxWmQBlx8n0eWbSA/giphy.gif" width="200" alt="Spider-Man GIF"/>
 </p>
 
 <p align="center">
