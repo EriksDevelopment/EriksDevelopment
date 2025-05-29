@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Erik</h1>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRleXk1cmR4anhiNms4aHlwamFiazVkMjF5cTVsdWVncHd3bHpjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S6HqMYjRsPeoqfmMJD/giphy.gif" width="200" alt="Spider-Man GIF"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGtsbXc0Z2cyMHZya2xvOXRvazU4MjFnODB2Z3N2Z2lqeDFlZzQ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mQMBdfSFrvA7iZsWDH/giphy.gif" width="200" alt="Spider-Man GIF"/>
 </p>
 
 <p align="center">
