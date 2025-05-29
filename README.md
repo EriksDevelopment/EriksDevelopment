@@ -26,6 +26,8 @@
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVhemlkcTAwNnRkNXM4czgwbHFucXdlaXRqOXEyMmJ3YTNwd2E0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IgLEFhGAt3giA9XMHk/giphy.gif" width="30" /> Tools / learning
