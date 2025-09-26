@@ -32,9 +32,10 @@
 
 <p>
   <a href="https://github.com/EriksDevelopment">
-    <img alt="GitHub" src="![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-    <img alt="Git" src="" />
+  <a href="https://git-scm.com/">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </a>
 </p>
 
