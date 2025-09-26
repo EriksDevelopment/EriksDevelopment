@@ -43,7 +43,7 @@
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmN6NHV0bXU3dTlhYmkzZzV0bG84bGZnZmV5NXUyNDNpdTB2b2YxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ObNTw8Uzwy6KQ/giphy.gif" width="30" /> About me
 
-Hey! My name is Erik, 22. I’m currently studying to become a .NET developer with a focus on cloud technologies at Jensens Yrkeshögskola in Stockholm.
+Hey! My name is Erik, 22. I’m currently studying to become a .NET developer with a focus on cloud technologies at Jensens Swedish vocational higher education institution in Stockholm.
 
 ---
 
