@@ -34,8 +34,7 @@
   <a href="https://github.com/EriksDevelopment">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://azure.microsoft.com/">
-    <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img alt="Git" src="(https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)" />
   </a>
 </p>
 
