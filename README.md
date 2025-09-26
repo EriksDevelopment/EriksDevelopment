@@ -28,7 +28,7 @@
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVhemlkcTAwNnRkNXM4czgwbHFucXdlaXRqOXEyMmJ3YTNwd2E0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IgLEFhGAt3giA9XMHk/giphy.gif" width="30" /> Tools / learning
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVhemlkcTAwNnRkNXM4czgwbHFucXdlaXRqOXEyMmJ3YTNwd2E0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IgLEFhGAt3giA9XMHk/giphy.gif" width="30" /> Tools
 
 <p>
   <a href="https://github.com/EriksDevelopment">
