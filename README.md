@@ -1,4 +1,4 @@
-<h1 align="center">What’s up?</h1>
+<h1 align="center">Hello!</h1>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9hMXVvYzBmbDY4ZjN6NDg1bjd3b2prbmJ6ZDBwOHVvMXllaWRuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ytpxWmQBlx8n0eWbSA/giphy.gif" width="200" alt="Spider-Man GIF"/>
@@ -21,12 +21,9 @@
 
 ---
 
-### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRrZmF6N3B3MDZueG0yMXp1bWt4amk4ZGQ0bmJ6ZWtqZDFnYXl2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8ekmDODACSSXxWuBRz/giphy.gif" width="30" /> Languages / learning
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDRrZmF6N3B3MDZueG0yMXp1bWt4amk4ZGQ0bmJ6ZWtqZDFnYXl2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8ekmDODACSSXxWuBRz/giphy.gif" width="30" /> Learning
 
 <p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
@@ -46,7 +43,7 @@
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmN6NHV0bXU3dTlhYmkzZzV0bG84bGZnZmV5NXUyNDNpdTB2b2YxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ObNTw8Uzwy6KQ/giphy.gif" width="30" /> About me
 
-I’m a passionate software developer currently diving deep into C# and exploring the power of .NET. I enjoy creating practical and efficient console applications that solve real problems and challenge my skills. Coding is not just a hobby for me, it’s a constant journey of learning and self-improvement. Every day, I strive to write cleaner, more maintainable code and expand my knowledge of new technologies and best practices.
+I’m currently studying to become a .NET developer with a focus on cloud technologies at Jensens Yrkeshögskola in Stockholm.
 
 ---
 
