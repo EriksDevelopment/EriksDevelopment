@@ -1,4 +1,4 @@
-<h1 align="center">Hello!</h1>
+<h1 align="center">WELCOME</h1>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9hMXVvYzBmbDY4ZjN6NDg1bjd3b2prbmJ6ZDBwOHVvMXllaWRuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ytpxWmQBlx8n0eWbSA/giphy.gif" width="200" alt="Spider-Man GIF"/>
@@ -43,7 +43,7 @@
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmN6NHV0bXU3dTlhYmkzZzV0bG84bGZnZmV5NXUyNDNpdTB2b2YxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ObNTw8Uzwy6KQ/giphy.gif" width="30" /> About me
 
-I’m currently studying to become a .NET developer with a focus on cloud technologies at Jensens Yrkeshögskola in Stockholm.
+Hey! My name is Erik, 22. I’m currently studying to become a .NET developer with a focus on cloud technologies at Jensens Yrkeshögskola in Stockholm.
 
 ---
 
